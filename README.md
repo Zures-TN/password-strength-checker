@@ -31,9 +31,6 @@ The tool evaluates passwords based on:
 - ⚠️ Repeating character detection
 - ⚠️ Keyboard sequence detection
 
-## 🚀 Live Demo
-
-[View Live Demo](#) *(Add your deployment link)*
 
 ## 📸 Screenshots
 
